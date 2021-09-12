@@ -1,0 +1,52 @@
+.create-account {
+    width:150px;
+}
+.gradient-custom-2 {
+    /* fallback for old browsers */
+    background: #fccb90;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #ADD8E6, #ADD8E6, #ADD8E6, #ADD8E6);
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #ADD8E6, #ADD8E6, #ADD8E6, #ADD8E6);
+  
+  }
+  
+  @media (min-width: 768px) {
+    .gradient-form {
+      height: 100vh !important;
+    }
+  }
+  @media (min-width: 769px) {
+    .gradient-custom-2 {
+      border-top-right-radius: .3rem;
+      border-bottom-right-radius: .3rem;
+    }
+  }
+
+.spacer {
+    margin: 2px 8px;
+}
+
+.myForm {
+  min-width: 500px;
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.5rem;
+}
+
+.terms {
+  position: relative;
+  font-size: 0.9rem;
+}
+
+.button-spacer {
+  margin: 2px 20px;
+}
+.about-text {
+  font-size: 30px;
+}
