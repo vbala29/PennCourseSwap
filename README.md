@@ -2,6 +2,8 @@
 
 PennApps '21 hackathon project by Vikram Bala. Languages and Frameworks used: Flask/Python, Flask-Mail, HTML5, CSS, Bootstrap, sqlite (with SQLAlchemy), Jinja2
 
+How it works: After you create an account, simply list the courses that you want and the courses that you are willing to drop. Whenever someone offers up a course you want in exchange for a course you don't want, we'll notify you via email! The sooner you list your swaps, the higher you will be prioritized, so don't forget to sign up now.
+
 **See site at: https://vikbala.pythonanywhere.com** (Email notification functionality currently disabled, please contact if you'd like a demo).
 <img width="1438" alt="Screen Shot 2021-09-12 at 1 29 54 AM" src="https://user-images.githubusercontent.com/56012430/132973371-fecf7885-5cd8-493b-ba3b-80bde2f62f41.png">
 
